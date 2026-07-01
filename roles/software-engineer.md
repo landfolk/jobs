@@ -75,3 +75,7 @@ We're not looking for the perfect CV. We're looking for builders with judgment, 
 Landfolk helps people search for the exceptional and find the unforgettable. We're building Europe's most ambitious platform for premium holiday homes, and we need engineers who can help make it better without making it more complicated.
 
 We'll review applications and conduct interviews on a rolling basis, so please send us yours as soon as possible.
+
+## Applying with an AI agent
+
+If you use a coding agent (Codex, Claude Code, Cursor, Pi, OpenCode, or similar), we'd love to see how you work with it. Point your agent at our [human-agent interview skill](https://github.com/landfolk/jobs/blob/main/skills/human-agent-interview/SKILL.md) and attach the markdown file it produces to your application. It's optional, not required, but it's the clearest way to show us how you actually work with AI.
