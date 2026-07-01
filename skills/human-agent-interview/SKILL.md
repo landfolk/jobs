@@ -1,5 +1,5 @@
 ---
-name: ai-setup-grill
+name: human-agent-interview
 version: 1.0.0
 description: Interview the human about their AI coding setup and produce a markdown artifact they can attach to a job application. Use when applying to a role that asks for evidence of AI-native working habits, or when instructed to "run the grill" / "produce your AI setup artifact".
 ---
