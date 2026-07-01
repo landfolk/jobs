@@ -12,4 +12,4 @@ Open roles at Landfolk.
 
 ### How to use it
 
-Give your coding agent the [link to the skill](skills/human-agent-interview/SKILL.md), or open it and copy-paste the content into your agent. It will interview you about your AI setup and produce a markdown file you can attach to your application.
+Give your coding agent the [link to the skill](skills/human-agent-interview/SKILL.md) or the [raw URL](https://raw.githubusercontent.com/landfolk/jobs/main/skills/human-agent-interview/SKILL.md), or open it and copy-paste the content into your agent. It will interview you about your AI setup and produce a markdown file you can attach to your application.

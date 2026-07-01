@@ -14,7 +14,7 @@ You might lean towards one or more of these areas:
 
 - **Frontend & product UX**: guest and host-facing flows, UI craft, performance, accessibility (TypeScript, React, Next.js)
 - **Backend & product systems**: domain logic, APIs, integrations, booking, listing, payments (Rails, GraphQL, PostgreSQL)
-- **Platform & data**: infrastructure, reliability, observability, warehouse, developer experience (Nix, Terraform, Kubernetes, Prometheus, Loki)
+- **Platform & data**: infrastructure, reliability, observability, warehouse, developer experience (Nix, Terraform, Kubernetes, Prometheus, Grafana)
 - **AI workflows & internal tools**: agents, automations, reports, and tools that remove manual work for the team
 
 You should see yourself in at least one, and it's fine to overlap two or three. The common thread is how you work: curious, practical, fast-learning, strong with tools, and starting to think in agents, orchestrating your work, not just writing code, without lowering the bar for what ships. You won't be judged by how many tickets you close or how much code you generate. The bar is whether the work makes the product, the system, and the team better.
@@ -53,7 +53,7 @@ Most importantly, you have taste. You know the difference between code that pass
 
 ## Working at Landfolk
 
-We work hybrid from our beautiful office in Aarhus. You'll have flexibility to work from home some days, but we're Aarhus-first for now: we want to build the remote onboarding muscle properly before we broaden. We believe the best products come from teams that actually work together. We care about the work you produce, not the hours you keep, and we trust you to keep a life outside it.
+We work hybrid from our beautiful office in Aarhus. You'll have flexibility to work from home some days, but we're Aarhus-first for now: we want to build the remote onboarding muscle properly before we broaden. We believe the best products come from teams that actually work together.
 
 You'll join a low-distraction work environment with real ownership and great colleagues across tech, product, design, community, operations, and communication.
 
@@ -63,13 +63,15 @@ This is a full-time hybrid position. Aarhus presence matters because we build be
 
 We want to see how you think, not a portfolio. Most working engineers can't share code from previous jobs, and we don't expect you to. We'll talk about real work you've shipped in the interview instead.
 
-A few things will help us judge your application. Include what you can:
+A few things will help us get to know you. Include what you can:
 
 - Thoughts on how you use AI in your daily work: where it helps, where it gets in the way, and how you think engineering teams should adapt
 - A few paragraphs on why Landfolk's product and engineering challenge interests you
 
-If you have something you've built that you can share, we'd love to see it. It'll help us judge your application, but it's not required.
+If you have something you've built that you can share, we'd love to see it, but it's not required.
 
 We're not looking for the perfect CV. We're looking for builders with judgment, curiosity, craft, and real habits around using modern tools well.
 
 Landfolk helps people search for the exceptional and find the unforgettable. We're building Europe's most ambitious platform for premium holiday homes, and we need engineers who can help make it better without making it more complicated.
+
+We'll review applications and conduct interviews on a rolling basis, so please send us yours as soon as possible.
