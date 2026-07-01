@@ -6,6 +6,10 @@ Open roles at Landfolk.
 
 - [Software Engineer](roles/software-engineer.md)
 
+## Engineering levels
+
+- [Engineering Levels at Landfolk](docs/engineering-levels.md) — our leveling framework from L1 (Assistant) through L7 (Principal), evaluated across skill, engagement, and coachability.
+
 ## Application skills
 
 - [Human-Agent Interview](skills/human-agent-interview/SKILL.md) — a skill your coding agent runs to produce an AI setup artifact you can attach to your application.

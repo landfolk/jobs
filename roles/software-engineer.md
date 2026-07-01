@@ -51,6 +51,8 @@ You use AI in your daily work. That might mean agents in your editor, custom scr
 
 Most importantly, you have taste. You know the difference between code that passes, code that ships, and code that should exist in the product for years.
 
+We hire across levels — you can see the full framework [here](https://github.com/landfolk/jobs/blob/main/docs/engineering-levels.md). For this round we're primarily looking for engineers at L3 to L5, though we're open to L2 if you've built exceptional things and have strong AI habits.
+
 ## Working at Landfolk
 
 We work hybrid from our beautiful office in Aarhus. You'll have flexibility to work from home some days, but we're Aarhus-first for now: we want to build the remote onboarding muscle properly before we broaden. We believe the best products come from teams that actually work together.
