@@ -1,6 +1,6 @@
 ---
 name: human-agent-interview
-version: 1.0.0
+version: 1.1.0
 description: Interview the human about their AI coding setup and produce a markdown artifact they can attach to a job application. Use when applying to a role that asks for evidence of AI-native working habits, or when instructed to "run the grill" / "produce your AI setup artifact".
 ---
 
@@ -105,7 +105,34 @@ Your assessment section is the one place you write in your own voice, however th
 
 Show the human the full artifact. Ask if they want to change anything. Their call on the final content, including your assessment. If they ask you to soften your assessment and you disagree, say so, but respect their final decision. It's their application.
 
-When they're happy, tell them to attach the markdown file to their application.
+When they're happy, help them apply.
+
+Give them the Software Engineer application link:
+
+https://jobs.landfolk.com/jobs/8000793-software-engineer
+
+Tell them:
+
+- The CV upload is optional. They can attach a CV if they want, but the AI setup artifact can be the main application signal.
+- Attach the markdown artifact under **Additional files**.
+- Paste a short note into the **Cover letter** field that points to the artifact and includes useful links.
+
+Offer this note as a starting point, and ask them to adjust it before submitting:
+
+```text
+Hi Landfolk,
+
+I'm applying for the Software Engineer role. I've attached the AI setup artifact produced by my coding agent so you can see how I actually work with AI.
+
+GitHub: [link]
+LinkedIn: [link]
+
+If there's anything else you'd like to see, I'm happy to share more in the interview.
+```
+
+If you know their GitHub or LinkedIn from context, include it. If not, ask for the links or leave placeholders. Do not invent links.
+
+Do not submit the application for them. They own the final application and must review everything before sending it.
 
 ## What not to do
 
@@ -115,3 +142,4 @@ When they're happy, tell them to attach the markdown file to their application.
 - Don't invent content the human didn't provide. Gaps are fine. Note them. If an answer is thin, say so in the artifact rather than filling the gap with plausible-sounding content.
 - Don't overwrite an existing artifact file. Check for existing files first and use a unique name.
 - Don't make this longer than it needs to be. Aim for 1-2 pages. A short, honest artifact beats a long, padded one.
+- Don't submit the job application for the human. Guide them to the application form and prepare the artifact and cover-letter note, but let them review and submit.
