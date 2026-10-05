@@ -32,8 +32,6 @@ Each level is evaluated across three dimensions:
 2. **Engagement** — Ownership, communication, planning, and trust  
 3. **Coachability** — How you give and receive feedback
 
----
-
 ## Assistant Software Engineer (L1)
 
 Entry-level position for students or very early-career engineers. The focus is on learning, absorbing patterns, and contributing under close guidance.
@@ -87,8 +85,6 @@ All work is thoroughly reviewed. Significant guidance and pairing expected. Succ
 #### Feedback
 
 Actively seeks feedback and receives it with a growth mindset. Observes and learns from the work and behavior of others.
-
----
 
 ## Junior Software Engineer (L2)
 
@@ -144,8 +140,6 @@ Work is thoroughly reviewed with back-and-forth frequently needed before merging
 
 Observes and learns from the work and behavior of others. Receives constructive feedback with a growth mindset.
 
----
-
 ## Software Engineer I (L3)
 
 A capable, productive engineer who works well within existing systems and patterns.
@@ -199,8 +193,6 @@ Work is reviewed with some back-and-forth. Occasional need for direction or impl
 #### Feedback
 
 Provides specific, well-considered feedback within their area of expertise. Able to disagree and commit.
-
----
 
 ## Software Engineer II (L4)
 
@@ -256,8 +248,6 @@ Work doesn't necessarily need to be reviewed, but general approach may be discus
 
 Provides specific, constructive feedback on the work of L1-L3 engineers that deepens their knowledge across broad areas.
 
----
-
 ## Senior Software Engineer (L5)
 
 A technical leader who owns significant systems and mentors others. Defines standards and can lead teams through multi-week projects.
@@ -311,8 +301,6 @@ Major projects can be completed and shipped without review. Provides guidance to
 #### Feedback
 
 Consistently sought by colleagues for assistance with critical work or decisions.
-
----
 
 ## Lead Software Engineer (L6)
 
@@ -368,8 +356,6 @@ Entire systems can be designed and shipped without review. Provides architectura
 
 Defines engineering standards and guidance. Sought by colleagues across the organization for assistance with critical work or decisions.
 
----
-
 ## Principal Software Engineer (L7)
 
 The highest individual contributor level. Shapes technical strategy for the entire organization. May represent Landfolk's engineering externally.
@@ -423,8 +409,6 @@ Entire systems can be designed, developed, and shipped autonomously. Provides ar
 #### Feedback
 
 Defines organization-wide engineering standards and guidance. Consistently sought by colleagues across the organization for assistance with critical work or decisions. Actively develops the next generation of technical leaders.
-
----
 
 ## Notes on Application
 
