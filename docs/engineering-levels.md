@@ -5,7 +5,8 @@ read_when:
   - "career levels"
   - "leveling framework"
   - "software engineer titles"
-last_verified: "2026-01-23"
+  - "engineering management"
+last_verified: "2026-10-08"
 ---
 
 # Engineering Levels at Landfolk
