@@ -436,3 +436,31 @@ The shift from Software Engineer to Senior is often the biggest jump. It's less 
 - Actively developing others, not just helping when asked  
 - Defining standards rather than following them  
 - Leading through ambiguity when the path isn't clear
+
+## Engineering Management
+
+Engineering management at Landfolk is a shared practice for supporting engineers’ development and well-being. The people carrying this responsibility are referred to here as Engineering Managers. This describes what they do, rather than defining a separate career level or job title.
+
+### Purpose
+
+Every engineer should have someone who pays attention to how they’re doing and helps them develop. Engineering Managers provide that continuity while contributing to the direction of the engineering organisation.
+
+This is not workstream or time management. Engineers retain ownership of their work, and workstreams determine priorities.
+
+### Responsibilities
+
+- **Development:** regular 1:1s at individually agreed cadences, a yearly structured development meeting (MUS) and a mid-year followup. Use the engineering levels to discuss strengths, ambitions, and opportunities to grow, not as a checklist or a requirement to pursue promotion.
+- **Well-being:** understand how the engineer is doing, what helps them thrive, and how their work preferences change.
+- **Feedback:** draw on observations of real work while balancing the value of observation against the time it requires.
+- **Navigating change:** help engineers understand and process changes constructively. Make room for concerns and disagreement, alongside pragmatic ways forward.
+- **Clarity:** explain directly what each engineer can expect from their manager.
+- **Organisational direction:** bring relevant patterns and concerns into the Engineering Manager forum.
+
+### Boundaries
+
+- Engineering Managers do not decide pay or promotions, but provide engineering leadership with context on their reports’ development when promotions are considered.
+- They do not allocate engineers’ time or set workstream priorities.
+- They do not administer holiday registration or sick leave.
+- They build a relationship with newly onboarded engineers, but do not own the onboarding process.
+- Manager responsibilities sit alongside other engineering work. When they significantly affect capacity they communicate this to the workstream so expectations remain clear.
+
